@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ludovic Brivadyyy"
+title                    : "Ludovic Brivady"
 title_separator          : "-"
 name                     : &name "Ludovic Brivady"
 description              : &description "ENS Paris Physics Student"
-url                      : https://ludovicbrvdy.github.io/ludovic-brivady.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://ludovicbrvdy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
 repository               : "ludovic-brivady.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
