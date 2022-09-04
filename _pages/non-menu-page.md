@@ -1,6 +1,6 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /colles/
+title: ""
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Exercices donnés en colles au Lycée Gustave Eiffel à Bordeaux (PSI* - 2022/23)
 
-Heading 1
-======
+Semaine 1 :
+---
 
-Heading 2
-======
