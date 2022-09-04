@@ -40,3 +40,16 @@ Research activities
   * University of Bordeaux - Laboratoire d'Ondes et Matières d'Aquitaine
   * _Observation of optical vortex using an home-made setup_
   * Supervisor: [Etienne Brasselet](https://www.loma.cnrs.fr/etienne-brasselet/)
+
+Talks
+======
+
+* **National** - Journées de la Matière Condensée 2022 (Lyon)
+  * Mini-colloquia "Sonder les propriétés d’interfaces fluides par des techniques d’optique linéaire et non-linéaire"
+  * Given talk: _Optorheolgy of thin non-Newtonian thin fluids_
+
+
+Other activities
+======
+
+* Editorial board of a student newsletter: [Normale Physics Review](normalephysicsreview.netlify.app) (_Past_)
