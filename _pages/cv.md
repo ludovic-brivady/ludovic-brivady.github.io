@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master in Physics, École Normale Supérieure (Paris), 2022
+   * _Soft Matter and Biophysics track_, with honors_
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Bachelor in Physics, École Normale Supérieure (Paris), 2019
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Preparatory school, Lycée Gustave Eiffel (Bordeaux)
+   * _PSI * - PCSI_
 
-Publications
+Research activities
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spring 2022: Research Intern
+  * University of Bordeaux - Laboratoire d'Ondes et Matières d'Aquitaine
+  * _Opto-rheology of thin non-Newtonian fluid films_
+  * Supervisors: [Jean-Pierre Delville](https://www.loma.cnrs.fr/jean-pierre-delville/) & [Thomas Salez](https://www.loma.cnrs.fr/thomas-salez/)
+
+* Spring 2021: Research Intern
+  * Institut de Neurobiologie de Méditérranée 
+  * _Apparition of touch perception in the barrel cortex during development_
+  * Supervisors: [Jean-Claude Platel](https://scholar.google.fr/citations?user=9CFQh94AAAAJ&hl=fr) & [Hervé Rouault](https://centuri-livingsystems.org/h-rouault/)
+
+* Autumn 2020: Research Intern
+  * École Normale Supérieure - Groupe de Physique Non-Linéaire
+  * _Kelvin waves in a bathtube vortex_
+  * Supervisor: [Christophe Gissinger](http://www.phys.ens.fr/~gissinger/)
+
+* July 2020: Research Intern
+  * University of Bordeaux - Laboratoire d'Ondes et Matières d'Aquitaine
+  * _Observation of optical vortex using an home-made setup_
+  * Supervisor: [Etienne Brasselet](https://www.loma.cnrs.fr/etienne-brasselet/)
