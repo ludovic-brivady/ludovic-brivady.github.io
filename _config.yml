@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "4th year ENS Student"
   location         : "Bordeaux"
-  employer         : "UMR CNRS 5805 EPOC"
+  employer         : "UMR CNRS 5805 EPOC / Département de Physique de l'École Normale Supérieure"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

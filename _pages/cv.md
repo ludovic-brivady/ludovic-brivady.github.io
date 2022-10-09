@@ -21,6 +21,11 @@ Education
 
 Research activities
 ======
+* Autumn 2022 (Current): Research Intern
+  * University of Bordeaux - Laboratoire EPOC
+  * _River-tide interactions in the Gironde estuary_
+  * Supervisors: [Isabel Jalòn Rojas](https://isabeljalonrojas.com/)
+
 * Spring 2022: Research Intern
   * University of Bordeaux - Laboratoire d'Ondes et Matières d'Aquitaine
   * _Opto-rheology of thin non-Newtonian fluid films_
@@ -51,5 +56,5 @@ Talks
 
 Other activities
 ======
-
+* _Khôlles_ (oral examination) in preparatory school (PSI* - Lycée Gustave Eiffel, Bordeaux) (_2022-23_)
 * Editorial board of a student newsletter: [Normale Physics Review](normalephysicsreview.netlify.app) (_Past_)
