@@ -3,7 +3,7 @@ title: "Planches d'exercice CPGE"
 collection: teaching
 #type: "C"
 permalink: /teaching/kholles
-venue: "Mise à jour le 09-oct-2022"
+venue: "Mise à jour le 13-oct-2022"
 #date: 2022-2023
 #location: "Bordeaux"
 ---
@@ -12,13 +12,17 @@ Vous trouverez ici différentes planches thématiques d'exercices. Ces exercices
 Les planches se composent d'exercices piochés ici et là (Par exemple sur la [Beos](https://beos.prepas.org/)), 
 d'autres sont des créations (plus ou moins) originales. Les planches seront actualisées au fur et à mesure de la progression annuelle (et de mon rythme d'écriture !).
 
+Mécanique (PCSI)
+======
+[Exercices](http://ludovic-brivady.github.io/files/planche_meca.pdf)
+
 Électronique
 ======
-[Exercices: ](http://ludovic-brivady.github.io/files/planche_elec.pdf)
+[Exercices](http://ludovic-brivady.github.io/files/planche_elec.pdf)
 
 Mécanique des fluides
 ======
-[Exercices: ](http://ludovic-brivady.github.io/files/planche_mf.pdf)
+[Exercices](http://ludovic-brivady.github.io/files/planche_mf.pdf)
 
 Ordres de grandeur
 ======
@@ -28,8 +32,8 @@ mais il me semble bon de rappeler que la physique s'appuie sur des **mesures**, 
 il peut être pertinent d'avoir en tête quelques ordres de grandeurs dans l'optique des concours. Ils peuvent par exemple vous permettre d'émettre des hypothèses 
 simplificatrices ou de justifier la cohérence d'un résultat.
 
-[Exercices: ](http://ludovic-brivady.github.io/files/planche_odg.pdf)
+[Exercices](http://ludovic-brivady.github.io/files/planche_odg.pdf)
 
 A venir
 ======
-Mécanique (PCSI)
+
