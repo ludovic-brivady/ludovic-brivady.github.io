@@ -4,7 +4,7 @@ collection: teaching
 #type: "C"
 permalink: /teaching/kholles
 venue: "Mise à jour le 13-oct-2022"
-#date: 2022-2023
+date: ""
 #location: "Bordeaux"
 ---
 
