@@ -1,10 +1,10 @@
 ---
 title: "Planches d'exercice CPGE"
 collection: teaching
-#type: "C"
+type: "C"
 permalink: /teaching/kholles
-venue: "Mise à jour le "
-date: 2022-10-13
+venue: "Mise à jour le 18 Novembre 2022"
+#date: 2022-10-13
 #location: "Bordeaux"
 ---
 
